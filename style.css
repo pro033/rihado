@@ -27,7 +27,7 @@ a:hover {
 }
 
 /* header */
-header .grobal_nav {
+header {
     display: flex;
 }
 header h1 {
