@@ -338,6 +338,9 @@ main ul {
 main .inner_box {
     display: flex;
 }
+main .inner_box a{
+    text-decoration: none;
+}
 main .memory_box {
     margin-bottom: 150px;
 }
@@ -353,7 +356,6 @@ main .memory_category {
     background: #fff;
     border-radius: 30px;
     border: solid 3px #6091d3;/*線*/
-
     width: 150px;
     justify-content: space-evenly;
 }
